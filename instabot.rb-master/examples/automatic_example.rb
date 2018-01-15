@@ -4,7 +4,7 @@ require 'instabot'
 
 Config.setup do |set|
   set.username              = 'free_followers_for_u__0'
-  set.password              = 'aftab101'
+  set.password              = 'aftab1011'
   set.tags                  = ['beautiful','love']
   
   # set.use_proxy            = true # => it's important to enable the proxy usage
