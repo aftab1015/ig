@@ -15,7 +15,7 @@ Config.setup do |set|
   # set.change_ip_per_actions = # => under construction ...
 
 
-  set.wait_per_action       = 3
+  set.wait_per_action       = 190
   set.max_follow_per_day    = 190
   set.max_unfollow_per_day  = 100
   set.max_like_per_day      = 50
